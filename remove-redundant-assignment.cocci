@@ -1,0 +1,5 @@
+@@
+expression x;
+@@
+
+- x = x; 
